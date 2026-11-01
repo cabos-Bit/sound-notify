@@ -1,0 +1,5 @@
+{
+  "name": "sound-notify",
+  "owner": { "name": "cabos-Bit" },
+  "plugins": [{ "name": "sound-notify", "source": "./" }]
+}

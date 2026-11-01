@@ -1,0 +1,5 @@
+{
+  "name": "sound-notify",
+  "version": "0.1.0",
+  "description": "Plays a chime when Claude finishes a turn and a short double beep when it waits for your answer (Windows / Linux)."
+}
